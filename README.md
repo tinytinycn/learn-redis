@@ -16,13 +16,14 @@
 - [redis的持久化](redis-basic/14-redis-rdb-aof.md)
 - [redis的分布式锁](redis-basic/15-redis-lock.md)
 - [redis的缓存问题](redis-basic/16-redis-cache.md)
+- [redisson的redlock算法实现](redis-basic/17-redisson.md)
 
 
 ----
 ## 参考
 
 - [redis教程](http://c.biancheng.net/redis/)
+- [Redlock（redis分布式锁）原理分析](https://www.cnblogs.com/rgcLOVEyaya/p/RGC_LOVE_YAYA_1003days.html)
 - [分布式锁的实现之redis篇](https://xiaomi-info.github.io/2019/12/17/redis-distributed-lock/)
 - [redis分布式锁的实现（setNx命令和Lua脚本）](https://www.cnblogs.com/caibaotimes/p/14419675.html)
-- [七种方案！探讨Redis分布式锁的正确使用姿势](https://www.163.com/dy/article/G4KRID3V0537260W.html)
 - [spring-data-redis](https://spring.io/projects/spring-data-redis)
