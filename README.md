@@ -19,6 +19,11 @@
 - [redisson的redlock算法实现](redis-basic/17-redisson.md)
 
 
+# 学习 Spring Data Redis
+
+- [springboot集成redis](spring-data-redis/springboot集成redis.md)
+- [springboot使用redis stream 实现消息队列](spring-redis-stream/spring-redis-stream.md)
+
 ----
 ## 参考
 

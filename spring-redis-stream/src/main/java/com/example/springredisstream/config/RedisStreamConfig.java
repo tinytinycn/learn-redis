@@ -50,7 +50,6 @@ public class RedisStreamConfig {
                 streamListener
         );
         // start()
-        streamMessageListenerContainer.start();
         // 返回 subscription
         return subscription;
     }
